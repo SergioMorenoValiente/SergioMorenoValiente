@@ -14,8 +14,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SergioMorenoValiente&hide_progress=false&layout=compact&theme=tokyonight" alt="Top Langs" width="45%">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SergioMorenoValiente&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%">
+    <img src="https://github-readme-stats-nine-brown.vercel.app/api/top-langs/?username=SergioMorenoValiente&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=react" width="45%">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SergioMorenoValiente&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=react" alt="GitHub Stats" width="45%">
 </div>
 
 
